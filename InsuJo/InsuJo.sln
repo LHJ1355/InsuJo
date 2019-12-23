@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{073E0D9F-8F97-A319-7AF5-7289B294679C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{9534BC09-4309-CB3E-984E-ED299FA0D34E}"
@@ -22,8 +22,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal

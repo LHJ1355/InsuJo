@@ -1,4 +1,4 @@
-## insujo
+## Insujo
 - Lee
-- Park
+- Park Jun Ho
 - Jo
